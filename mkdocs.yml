@@ -1,5 +1,5 @@
 site_name: Manual de Tomada de Contas Especial
-site_description: Projeto independente de consulta e disseminação de conhecimentos sobre Tomada de Contas Especial.
+site_description: Projeto independente de organização e disseminação de conhecimentos sobre Tomada de Contas Especial.
 site_url: https://dcactce.github.io/manual-tomada-de-contas-especial/
 site_author: DCACTCE
 
@@ -36,3 +36,17 @@ theme:
 plugins:
   - search:
       lang:
+        - pt
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Início: index.md
+
+copyright: Projeto independente. Conteúdo informativo e educativo.
