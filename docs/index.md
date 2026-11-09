@@ -30,9 +30,9 @@ O conteúdo está organizado em partes e capítulos, permitindo a leitura direta
 
 ## Documento em PDF
 
-A versão integral da Parte I será disponibilizada para consulta e leitura em PDF.
+A versão integral da Parte I também estará disponível em PDF para consulta e leitura.
 
-[**Consultar PDF — Parte I**](../manual-tomada-de-contas-especial-parte-1.pdf)
+O arquivo será disponibilizado nesta plataforma após sua organização na estrutura de documentos.
 
 ## Sobre o projeto
 
