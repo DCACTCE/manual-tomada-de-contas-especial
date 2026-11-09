@@ -14,9 +14,9 @@ Este espaço foi desenvolvido com o propósito de organizar e facilitar a consul
 
 O conteúdo está organizado em partes e capítulos, permitindo a leitura diretamente nesta plataforma.
 
-**Parte I — Tomada de Contas Especial**
+### Parte I — Tomada de Contas Especial
 
-- [Capítulo 1 — Introdução e legislação aplicável](manual/parte-1/capitulo-01.md)
+- Capítulo 1 — Introdução e legislação aplicável
 - Capítulo 2 — Definição de Tomada de Contas Especial
 - Capítulo 3 — Distinção entre procedimentos
 - Capítulo 4 — Pressupostos e procedimentos anteriores à instauração
@@ -26,11 +26,11 @@ O conteúdo está organizado em partes e capítulos, permitindo a leitura direta
 - Capítulo 8 — Fase externa
 - Capítulo 9 — Outros tópicos relevantes
 
-*Os demais capítulos serão disponibilizados progressivamente.*
+*Os capítulos serão disponibilizados progressivamente.*
 
 ## Documento em PDF
 
-A versão integral da Parte I também poderá ser consultada em PDF.
+A versão integral da Parte I será disponibilizada para consulta e leitura em PDF.
 
 [**Consultar PDF — Parte I**](../manual-tomada-de-contas-especial-parte-1.pdf)
 
