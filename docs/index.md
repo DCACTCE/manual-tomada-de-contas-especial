@@ -1,6 +1,7 @@
+
 # Manual de Tomada de Contas Especial
 
-Projeto independente de organização e disseminação de conhecimentos sobre Tomada de Contas Especial na Administração Pública.
+**Conhecimento, orientação e organização de procedimentos relacionados à Tomada de Contas Especial na Administração Pública.**
 
 ---
 
@@ -8,34 +9,34 @@ Projeto independente de organização e disseminação de conhecimentos sobre To
 
 A Tomada de Contas Especial (TCE) constitui instrumento de controle destinado à apuração de fatos, à identificação dos responsáveis e à quantificação de eventual dano ao erário, observadas as disposições legais e regulamentares aplicáveis.
 
-Este espaço foi desenvolvido com o propósito de organizar e facilitar a consulta a conteúdos relacionados ao tema, reunindo fundamentos conceituais, aspectos normativos, procedimentos administrativos e materiais de apoio.
+Este espaço reúne conteúdos informativos e materiais de referência sobre o tema, com o propósito de facilitar a compreensão dos fundamentos conceituais, dos aspectos normativos e dos procedimentos administrativos relacionados à TCE.
 
-## Consulte o manual
+## Explore o manual
 
-O conteúdo está organizado em partes e capítulos, permitindo a leitura diretamente nesta plataforma.
+O conteúdo está organizado em seis temas, que abordam diferentes etapas e aspectos da Tomada de Contas Especial.
 
-### Parte I — Tomada de Contas Especial
+### Fundamentos e conceitos
 
-- Capítulo 1 — Introdução e legislação aplicável
-- Capítulo 2 — Definição de Tomada de Contas Especial
-- Capítulo 3 — Distinção entre procedimentos
-- Capítulo 4 — Pressupostos e procedimentos anteriores à instauração
-- Capítulo 5 — Instauração da Tomada de Contas Especial
-- Capítulo 6 — Processo de Tomada de Contas Especial
-- Capítulo 7 — Fase interna
-- Capítulo 8 — Fase externa
-- Capítulo 9 — Outros tópicos relevantes
+- [Introdução e legislação](manual/capitulo-01.md)
+- [Conceitos fundamentais](manual/capitulo-02.md)
+- [Caracterização da TCE](manual/capitulo-03.md)
 
-*Os capítulos serão disponibilizados progressivamente.*
+### Procedimentos e responsabilização
 
-## Documento em PDF
+- [Pressupostos e medidas preliminares](manual/capitulo-04.md)
+- [Instauração da TCE](manual/capitulo-05.md)
+- [Fases e prescrição](manual/capitulo-06.md)
 
-A versão integral da Parte I também estará disponível em PDF para consulta e leitura.
+## Sobre o conteúdo
 
-O arquivo será disponibilizado nesta plataforma após sua organização na estrutura de documentos.
+O material está em desenvolvimento e poderá receber atualizações, complementações e revisões, especialmente quanto à legislação, à regulamentação e à jurisprudência aplicáveis.
 
-## Sobre o projeto
+## Natureza do projeto
 
-Esta é uma iniciativa independente, de caráter informativo e educativo. Não constitui publicação oficial, orientação institucional ou manifestação dos órgãos e entidades eventualmente mencionados.
+Este é um projeto independente, de caráter informativo e educativo, destinado à organização e à disseminação de conhecimentos sobre Tomada de Contas Especial na Administração Pública.
 
-O conteúdo permanece em desenvolvimento e poderá receber atualizações.
+O conteúdo não constitui orientação institucional, parecer jurídico ou manifestação oficial da Controladoria-Geral do Estado ou do Tribunal de Contas do Estado de Minas Gerais.
+
+---
+
+*Projeto independente — Manual de Tomada de Contas Especial.*
