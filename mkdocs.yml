@@ -46,6 +46,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
+
 nav:
   - Início: index.md
   - O Manual:
@@ -55,8 +56,6 @@ nav:
       - Pressupostos e medidas preliminares: manual/capitulo-04.md
       - Instauração da TCE: manual/capitulo-05.md
       - Fases e prescrição: manual/capitulo-06.md
-  - Documentos de referência:
-      - Referências normativas: documentos.md
-  - Sobre o projeto: sobre.md
+
 
 copyright: Projeto independente. Conteúdo informativo e educativo.
