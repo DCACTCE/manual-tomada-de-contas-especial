@@ -48,10 +48,15 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-
-  - Manual:
-      - Parte I — Tomada de Contas Especial:
-          - Capítulo 1 — Introdução e legislação aplicável: manual/capitulo-01.md
-          - Capítulo 2 — O que é Tomada de Contas Especial?: manual/capitulo-02.md
+  - O Manual:
+      - Introdução e legislação: manual/capitulo-01.md
+      - Conceitos fundamentais: manual/capitulo-02.md
+      - Caracterização da TCE: manual/capitulo-03.md
+      - Pressupostos e medidas preliminares: manual/capitulo-04.md
+      - Instauração da TCE: manual/capitulo-05.md
+      - Fases e prescrição: manual/capitulo-06.md
+  - Documentos de referência:
+      - Referências normativas: documentos.md
+  - Sobre o projeto: sobre.md
 
 copyright: Projeto independente. Conteúdo informativo e educativo.
