@@ -6,7 +6,7 @@
 
 ## 1. Introdução
 
-O instituto da tomada de contas especial (TCE) se impõe como um mecanismo destinado à recuperação dos recursos públicos mal geridos, decorrentes de ações ou omissões ímprobas, negligentes ou desconformes com os princípios da Administração Pública.
+A Tomada de Contas Especial (TCE) se impõe como um mecanismo destinado à recuperação dos recursos públicos mal geridos, decorrentes de ações ou omissões ímprobas, negligentes ou desconformes com os princípios da Administração Pública.
 
 Tal procedimento destina-se, não somente, atender à determinação legal, mas, principalmente, proteger a gestão governamental e responsabilizar os agentes públicos quando do não cumprimento de seu dever social de prestar contas, a chamada *accountability*.
 
