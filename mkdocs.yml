@@ -48,5 +48,8 @@ markdown_extensions:
 
 nav:
   - Início: index.md
+  - Manual:
+      - Parte I — Tomada de Contas Especial:
+          - Capítulo 1 — Introdução e legislação aplicável: manual/capitulo-01.md
 
 copyright: Projeto independente. Conteúdo informativo e educativo.
