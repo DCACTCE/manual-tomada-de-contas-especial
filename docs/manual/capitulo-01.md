@@ -1,5 +1,5 @@
 
-# Capítulo 1 — Introdução e legislação aplicável
+# 1 — Introdução e legislação aplicável
 
 !!! info "Sobre este capítulo"
     Este capítulo apresenta o contexto da Tomada de Contas Especial (TCE), sua importância para a proteção do patrimônio público e as principais referências normativas relacionadas ao procedimento.
