@@ -20,3 +20,19 @@
 .grid.cards > ul > li:nth-child(4) .twemoji {
     color: #64748B;
 }
+
+/* Imagem panorâmica da Cidade Administrativa no cabeçalho */
+
+.md-header,
+.md-tabs {
+    background-image:
+        linear-gradient(
+            rgba(43, 65, 77, 0.78),
+            rgba(43, 65, 77, 0.78)
+        ),
+        url("../assets/cidade-administrativa.png");
+
+    background-size: cover;
+    background-position: center 48%;
+    background-repeat: no-repeat;
+}
