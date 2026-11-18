@@ -1,5 +1,5 @@
 
-# Capítulo 4 — Pressupostos e procedimentos anteriores à instauração
+# 4 — Pressupostos e procedimentos anteriores à instauração
 
 !!! info "Sobre este capítulo"
     A Tomada de Contas Especial é um procedimento excepcional. Sua instauração exige a presença de determinados pressupostos e a ocorrência de fatos que justifiquem sua adoção.
@@ -659,7 +659,7 @@ O processo de análise anterior à instauração pode ser compreendido a partir 
 
 *Figura — Fluxo ilustrativo da análise anterior à instauração da Tomada de Contas Especial.*
 
-## 4.6. Síntese do capítulo
+## 4.6. Síntese do tópico
 
 A instauração da Tomada de Contas Especial exige uma análise prévia cuidadosa. Não basta identificar uma irregularidade: é necessário verificar a existência de dano ao erário, identificar o agente responsável, caracterizar o fato irregular e confirmar a jurisdição e competência do Tribunal de Contas.
 
