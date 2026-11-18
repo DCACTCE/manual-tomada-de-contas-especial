@@ -1,5 +1,5 @@
 
-# Capítulo 6 — Processo de Tomada de Contas Especial
+# 6 — Processo de Tomada de Contas Especial
 
 A Tomada de Contas Especial desenvolve-se a partir da publicação do ato administrativo de instauração e designação do tomador de contas, em decorrência da ocorrência de fato ensejador previsto no artigo 47 da Lei Complementar Estadual nº 102/2008.
 
@@ -19,7 +19,7 @@ PUBLICAÇÃO DO ATO DE INSTAURAÇÃO
                 ▼
        FASE INTERNA
        Órgão ou entidade
-               │
+               
        ┌────────┼─────────┐
        ▼        ▼         ▼
      Apurar  Identificar Quantificar
@@ -34,7 +34,7 @@ PUBLICAÇÃO DO ATO DE INSTAURAÇÃO
                 ▼
        FASE EXTERNA
        Tribunal de Contas
-               │
+               
        ┌────────┼─────────┐
        ▼        ▼         ▼
      Análise  Contraditório Julgamento
@@ -242,7 +242,7 @@ Julgado em 06/03/2017, com referência à aplicação do artigo 118-A da Lei Com
 
 Esses precedentes devem ser lidos considerando o contexto normativo e jurisprudencial da época em que foram proferidos.
 
-## 6.4 Síntese do capítulo
+## 6.4 Síntese do tópico
 
 ### 🧭 O que você precisa lembrar
 
