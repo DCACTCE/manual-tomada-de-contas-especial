@@ -24,15 +24,35 @@ O Tribunal de Contas da União também apresenta como elementos fundamentais par
 
 Nesse contexto, consideram-se como pressupostos de instauração da tomada de contas especial:
 
-<box>
-    **Os quatro pressupostos fundamentais**
-    | Pressuposto | Pergunta orientadora |
-    |---|---|
-    | 💰 Dano ao erário | Houve prejuízo ao patrimônio público? |
-    | 👤 Agente responsável | É possível identificar quem deu causa ao dano? |
-    | ⚖️ Fato irregular | Qual conduta irregular ocasionou o prejuízo? |
-    | 🏛️ Jurisdição e competência do TCEMG | O fato, o responsável e o dano estão sujeitos à jurisdição do Tribunal? |
-</box>
+
+<div class="grid cards" markdown>
+
+-   :material-wallet: **Dano ao erário**
+
+    ---
+
+    Houve prejuízo ao patrimônio público?
+
+-   :material-account: **Agente responsável**
+
+    ---
+
+    É possível identificar quem deu causa ao dano?
+
+-   :material-scale-balance: **Fato irregular**
+
+    ---
+
+    Qual conduta irregular ocasionou o prejuízo?
+
+-   :material-bank: **Jurisdição e competência**
+
+    ---
+
+    O fato está sujeito à jurisdição do Tribunal?
+
+</div>
+
 
 !!! warning "Atenção"
     A ausência de qualquer um desses elementos pode comprometer a constituição e o desenvolvimento válido da TCE. A análise dos pressupostos deve ocorrer antes da decisão de instaurar o procedimento.
