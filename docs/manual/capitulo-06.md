@@ -21,7 +21,7 @@ PUBLICAÇÃO DO ATO DE INSTAURAÇÃO
        Órgão ou entidade
                
        ┌────────┼─────────┐
-       ▼        ▼         ▼
+       ▼       ▼         ▼
      Apurar  Identificar Quantificar
       fatos  responsáveis  o dano
                 │
@@ -36,7 +36,7 @@ PUBLICAÇÃO DO ATO DE INSTAURAÇÃO
        Tribunal de Contas
                
        ┌────────┼─────────┐
-       ▼        ▼         ▼
+       ▼       ▼         ▼
      Análise  Contraditório Julgamento
      dos autos e ampla defesa
                 │
