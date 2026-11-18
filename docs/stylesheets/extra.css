@@ -1,0 +1,22 @@
+
+/* Cores dos ícones dos quatro pressupostos da TCE */
+
+/* 1. Dano ao erário — dourado */
+.grid.cards > ul > li:nth-child(1) .twemoji {
+    color: #B88936;
+}
+
+/* 2. Agente responsável — azul */
+.grid.cards > ul > li:nth-child(2) .twemoji {
+    color: #477CA6;
+}
+
+/* 3. Fato irregular — verde */
+.grid.cards > ul > li:nth-child(3) .twemoji {
+    color: #568875;
+}
+
+/* 4. Jurisdição e competência — cinza-azulado */
+.grid.cards > ul > li:nth-child(4) .twemoji {
+    color: #64748B;
+}
