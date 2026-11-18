@@ -1,5 +1,5 @@
 
-# Capítulo 3 — Distinção entre procedimentos
+# 3 — Distinção entre procedimentos
 
 !!! info "Sobre este capítulo"
     Nem toda irregularidade na Administração Pública exige a instauração de uma Tomada de Contas Especial. Existem diferentes instrumentos de apuração, cada qual com finalidade e características próprias.
@@ -166,7 +166,7 @@ Isso significa que a apuração disciplinar e a apuração voltada à recomposi�
 
     A existência de um PAD não substitui a TCE quando houver necessidade de apurar dano ao erário. Da mesma forma, a TCE não substitui a apuração disciplinar quando houver necessidade de examinar eventual infração funcional.
 
-## 3.7. Síntese do capítulo
+## 3.7. Síntese do tópico
 
 | Instrumento | Pergunta central |
 |---|---|
