@@ -187,26 +187,30 @@ Os fatos ensejadores estão previstos no artigo 47 da Lei Complementar nº 102/2
 **Quais situações podem ensejar a TCE?**
 
 <box>
-    **Quatro hipóteses previstas na legislação**
+    
+### Quatro hipóteses previstas na legislação
 
-    **1. Omissão no dever de prestar contas**
+**1. Omissão no dever de prestar contas**
 
-    Ausência de apresentação da prestação de contas devida.
+Ausência de apresentação da prestação de contas devida.
 
-    <divider color="subtle"/>
-    **2. Falta de comprovação da aplicação de recursos**
+---
 
-    Ausência de comprovação da aplicação dos recursos repassados pelo Estado ou pelo Município.
+**2. Falta de comprovação da aplicação de recursos**
 
-    <divider color="subtle"/>
-    **3. Desfalque ou desvio de recursos públicos**
+Ausência de comprovação da aplicação dos recursos repassados pelo Estado ou pelo Município.
 
-    Perda, extravio ou utilização indevida de dinheiro, bens ou valores públicos.
+---
 
-    <divider color="subtle"/>
-    **4. Ato ilegal, ilegítimo ou antieconômico**
+**3. Desfalque ou desvio de recursos públicos**
 
-    Prática de ato que resulte em dano ao erário.
+Perda, extravio ou utilização indevida de dinheiro, bens ou valores públicos.
+
+---
+
+**4. Ato ilegal, ilegítimo ou antieconômico**
+
+Prática de ato que resulte em dano ao erário.
 </box>
 
 ### 4.2.1. Omissão no dever de prestar contas
