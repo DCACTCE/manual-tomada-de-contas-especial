@@ -1,5 +1,5 @@
 
-# Capítulo 5 — Instauração da Tomada de Contas Especial
+# 5 — Instauração da Tomada de Contas Especial
 
 !!! info "Sobre este capítulo"
     Esgotadas as medidas administrativas internas e elaborado o Relatório das Medidas Administrativas, a autoridade competente deverá avaliar a instauração da Tomada de Contas Especial, quando presentes os pressupostos e os fatos ensejadores previstos na legislação.
@@ -476,7 +476,7 @@ Devem ser observadas as demais providências e condições previstas na legisla�
 !!! warning "Verificação do regime jurídico"
     Os efeitos sobre a inadimplência no SIAFI dependem do regime normativo aplicável ao instrumento de transferência. É necessário verificar a legislação vigente e as regras específicas do convênio ou parceria.
 
-## 5.6. Síntese do capítulo
+## 5.6. Síntese do tópico
 
 A instauração da Tomada de Contas Especial representa o início formal de um procedimento de apuração destinado a esclarecer os fatos, identificar os responsáveis e quantificar o dano ao erário.
 
