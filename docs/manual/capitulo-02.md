@@ -1,5 +1,5 @@
 
-# Capítulo 2 — O que é Tomada de Contas Especial?
+# 2 — O que é Tomada de Contas Especial?
 
 !!! info "Sobre este capítulo"
     Neste capítulo, você conhecerá o conceito de Tomada de Contas Especial, sua relação com o controle da Administração Pública e sua finalidade de buscar a recomposição de eventuais prejuízos causados ao erário.
