@@ -46,7 +46,7 @@ Nesta permanente busca pelo aprimoramento das formas de controle e na tentativa 
 !!! success "Conceito fundamental"
     A tomada de contas especial (TCE) é um instrumento de que dispõe a Administração Pública para ressarcir eventuais prejuízos que lhe forem causados, sendo o processo revestido de rito próprio e somente instaurado depois de esgotadas as medidas administrativas para reparação do dano ao erário.
 
-## 2.5. Síntese do capítulo
+## 2.5. Síntese do tópico
 
 A compreensão da TCE pode ser organizada a partir de quatro elementos:
 
