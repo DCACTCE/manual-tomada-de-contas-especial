@@ -557,26 +557,26 @@ Na sequência, deverá apresentar avaliação sobre o êxito ou não das provid�
 
 Também deverá incluir o enquadramento do fato irregular nas hipóteses de fatos ensejadores previstas na regulamentação.
 
-**Qual deve ser a conclusão do relatório?**
 
-<box>
-    **Cenário 1 — Pressupostos presentes e medidas sem êxito**
+### Qual deve ser a conclusão do relatório?
 
-    Se forem identificados os pressupostos para instauração da TCE e as medidas administrativas não forem suficientes para o ressarcimento, o relatório deverá recomendar à autoridade administrativa a instauração do procedimento.
+!!! success "Cenário 1 — Pressupostos presentes e medidas sem êxito"
 
-    <divider color="subtle"/>
-    **Cenário 2 — Ausência de pressupostos ou de fato ensejador**
+    Se forem identificados os pressupostos para instauração da TCE e as medidas administrativas adotadas não tiverem alcançado resultado, o relatório deverá recomendar a instauração do procedimento.
 
-    O relatório deverá recomendar a não instauração da TCE e indicar as providências cabíveis, como:
+!!! warning "Cenário 2 — Ausência de pressupostos ou de fato ensejador"
+
+    O relatório deverá recomendar a não instauração da TCE e indicar as providências cabíveis, conforme a situação identificada:
 
     - Baixa do responsável na conta contábil "Diversos Responsáveis em Apuração";
     - Desbloqueio do órgão ou entidade no SIAFI, quando aplicável;
     - Regularização da carga patrimonial;
     - Outras providências pertinentes ao caso.
-</box>
 
-!!! important "Documentação obrigatória"
+!!! info "Documentação obrigatória"
+
     A instauração do processo deverá conter relatório circunstanciado acerca das medidas internas adotadas, inclusive aquelas que ainda estiverem em andamento, quando for o caso.
+
 
 ## 4.4. Casos que dispensam a instauração de TCE
 
