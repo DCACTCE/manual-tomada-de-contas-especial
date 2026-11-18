@@ -19,7 +19,7 @@ PUBLICAÇÃO DO ATO DE INSTAURAÇÃO
                 ▼
        FASE INTERNA
        Órgão ou entidade
-                │
+               │
        ┌────────┼─────────┐
        ▼        ▼         ▼
      Apurar  Identificar Quantificar
@@ -34,7 +34,7 @@ PUBLICAÇÃO DO ATO DE INSTAURAÇÃO
                 ▼
        FASE EXTERNA
        Tribunal de Contas
-                │
+               │
        ┌────────┼─────────┐
        ▼        ▼         ▼
      Análise  Contraditório Julgamento
