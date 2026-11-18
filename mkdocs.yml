@@ -50,6 +50,10 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 
+extra_css:
+  - stylesheets/extra.css
+
+
 nav:
   - Início: index.md
   - O Manual:
