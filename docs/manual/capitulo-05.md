@@ -435,28 +435,37 @@ Nessa fase, serão desenvolvidas as atividades necessárias à apuração dos fa
 - Elaboração do Relatório e Certificado da Auditoria Interna;
 - Emissão do atestado pela autoridade administrativa.
 
+
 **Efeitos principais da instauração**
 
-<box>
-    **1. Início da fase interna**
+<div class="grid cards efeitos-instauracao" markdown>
+
+-   :material-play-circle: **Início da fase interna**
+
+    ---
 
     Formaliza o início dos trabalhos de apuração no âmbito do órgão ou entidade.
 
-    <divider color="subtle"/>
-    **2. Organização da apuração**
+-   :material-clipboard-list: **Organização da apuração**
 
-    Define os responsáveis pela condução dos trabalhos e os elementos que deverão integrar o processo.
+    ---
 
-    <divider color="subtle"/>
-    **3. Demonstração de atuação administrativa**
+    Define os responsáveis pela condução dos trabalhos e os elementos que deverão integrar a apuração.
 
-    Evidencia a adoção de providências para apurar irregularidades e buscar a recomposição do patrimônio público.
+-   :material-file-check: **Demonstração da atuação administrativa**
 
-    <divider color="subtle"/>
-    **4. Possíveis efeitos sobre o registro de inadimplência no SIAFI**
+    ---
 
-    Em situações específicas envolvendo convênios, a instauração da TCE poderá integrar o conjunto de providências exigidas para a suspensão da inadimplência, desde que atendidos cumulativamente os requisitos da regulamentação aplicável.
-</box>
+    Evidencia a adoção de providências para apurar irregularidades e buscar a recomposição do dano.
+
+-   :material-bank: **Possíveis efeitos sobre o registro de inadimplência no SIAFI**
+
+    ---
+
+    Em situações específicas envolvendo convênios, a instauração da TCE poderá produzir efeitos sobre os registros de inadimplência no SIAFI.
+
+</div>
+
 
 ### 5.5.1. Efeitos relacionados aos convênios e ao SIAFI
 
